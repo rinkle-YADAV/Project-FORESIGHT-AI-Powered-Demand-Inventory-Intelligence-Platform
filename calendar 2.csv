@@ -1,0 +1,732 @@
+date,year,month,quarter,week,day_of_week,is_weekend,season,holiday,is_holiday,promotion_event
+01-01-2024,2024,1,Q1,1,Monday,0,Winter,None,0,None
+02-01-2024,2024,1,Q1,1,Tuesday,0,Winter,None,0,None
+03-01-2024,2024,1,Q1,1,Wednesday,0,Winter,None,0,None
+04-01-2024,2024,1,Q1,1,Thursday,0,Winter,None,0,None
+05-01-2024,2024,1,Q1,1,Friday,0,Winter,None,0,None
+06-01-2024,2024,1,Q1,1,Saturday,1,Winter,None,0,None
+07-01-2024,2024,1,Q1,1,Sunday,1,Winter,None,0,None
+08-01-2024,2024,1,Q1,2,Monday,0,Winter,None,0,None
+09-01-2024,2024,1,Q1,2,Tuesday,0,Winter,None,0,None
+10-01-2024,2024,1,Q1,2,Wednesday,0,Winter,None,0,None
+11-01-2024,2024,1,Q1,2,Thursday,0,Winter,None,0,None
+12-01-2024,2024,1,Q1,2,Friday,0,Winter,None,0,None
+13-01-2024,2024,1,Q1,2,Saturday,1,Winter,None,0,None
+14-01-2024,2024,1,Q1,2,Sunday,1,Winter,None,0,None
+15-01-2024,2024,1,Q1,3,Monday,0,Winter,None,0,None
+16-01-2024,2024,1,Q1,3,Tuesday,0,Winter,None,0,None
+17-01-2024,2024,1,Q1,3,Wednesday,0,Winter,None,0,None
+18-01-2024,2024,1,Q1,3,Thursday,0,Winter,None,0,None
+19-01-2024,2024,1,Q1,3,Friday,0,Winter,None,0,None
+20-01-2024,2024,1,Q1,3,Saturday,1,Winter,None,0,None
+21-01-2024,2024,1,Q1,3,Sunday,1,Winter,None,0,None
+22-01-2024,2024,1,Q1,4,Monday,0,Winter,None,0,None
+23-01-2024,2024,1,Q1,4,Tuesday,0,Winter,None,0,None
+24-01-2024,2024,1,Q1,4,Wednesday,0,Winter,None,0,None
+25-01-2024,2024,1,Q1,4,Thursday,0,Winter,None,0,None
+26-01-2024,2024,1,Q1,4,Friday,0,Winter,Republic Day,1,None
+27-01-2024,2024,1,Q1,4,Saturday,1,Winter,None,0,None
+28-01-2024,2024,1,Q1,4,Sunday,1,Winter,None,0,None
+29-01-2024,2024,1,Q1,5,Monday,0,Winter,None,0,None
+30-01-2024,2024,1,Q1,5,Tuesday,0,Winter,None,0,None
+31-01-2024,2024,1,Q1,5,Wednesday,0,Winter,None,0,None
+01-02-2024,2024,2,Q1,5,Thursday,0,Winter,None,0,None
+02-02-2024,2024,2,Q1,5,Friday,0,Winter,None,0,None
+03-02-2024,2024,2,Q1,5,Saturday,1,Winter,None,0,None
+04-02-2024,2024,2,Q1,5,Sunday,1,Winter,None,0,None
+05-02-2024,2024,2,Q1,6,Monday,0,Winter,None,0,None
+06-02-2024,2024,2,Q1,6,Tuesday,0,Winter,None,0,None
+07-02-2024,2024,2,Q1,6,Wednesday,0,Winter,None,0,None
+08-02-2024,2024,2,Q1,6,Thursday,0,Winter,None,0,None
+09-02-2024,2024,2,Q1,6,Friday,0,Winter,None,0,None
+10-02-2024,2024,2,Q1,6,Saturday,1,Winter,None,0,None
+11-02-2024,2024,2,Q1,6,Sunday,1,Winter,None,0,None
+12-02-2024,2024,2,Q1,7,Monday,0,Winter,None,0,None
+13-02-2024,2024,2,Q1,7,Tuesday,0,Winter,None,0,None
+14-02-2024,2024,2,Q1,7,Wednesday,0,Winter,None,0,None
+15-02-2024,2024,2,Q1,7,Thursday,0,Winter,None,0,None
+16-02-2024,2024,2,Q1,7,Friday,0,Winter,None,0,None
+17-02-2024,2024,2,Q1,7,Saturday,1,Winter,None,0,None
+18-02-2024,2024,2,Q1,7,Sunday,1,Winter,None,0,None
+19-02-2024,2024,2,Q1,8,Monday,0,Winter,None,0,None
+20-02-2024,2024,2,Q1,8,Tuesday,0,Winter,None,0,None
+21-02-2024,2024,2,Q1,8,Wednesday,0,Winter,None,0,None
+22-02-2024,2024,2,Q1,8,Thursday,0,Winter,None,0,None
+23-02-2024,2024,2,Q1,8,Friday,0,Winter,None,0,None
+24-02-2024,2024,2,Q1,8,Saturday,1,Winter,None,0,None
+25-02-2024,2024,2,Q1,8,Sunday,1,Winter,None,0,None
+26-02-2024,2024,2,Q1,9,Monday,0,Winter,None,0,None
+27-02-2024,2024,2,Q1,9,Tuesday,0,Winter,None,0,None
+28-02-2024,2024,2,Q1,9,Wednesday,0,Winter,None,0,None
+29-02-2024,2024,2,Q1,9,Thursday,0,Winter,None,0,None
+01-03-2024,2024,3,Q1,9,Friday,0,Spring,None,0,None
+02-03-2024,2024,3,Q1,9,Saturday,1,Spring,None,0,Seasonal Promotion
+03-03-2024,2024,3,Q1,9,Sunday,1,Spring,None,0,Seasonal Promotion
+04-03-2024,2024,3,Q1,10,Monday,0,Spring,None,0,None
+05-03-2024,2024,3,Q1,10,Tuesday,0,Spring,None,0,None
+06-03-2024,2024,3,Q1,10,Wednesday,0,Spring,None,0,None
+07-03-2024,2024,3,Q1,10,Thursday,0,Spring,None,0,None
+08-03-2024,2024,3,Q1,10,Friday,0,Spring,None,0,None
+09-03-2024,2024,3,Q1,10,Saturday,1,Spring,None,0,Seasonal Promotion
+10-03-2024,2024,3,Q1,10,Sunday,1,Spring,None,0,Seasonal Promotion
+11-03-2024,2024,3,Q1,11,Monday,0,Spring,None,0,None
+12-03-2024,2024,3,Q1,11,Tuesday,0,Spring,None,0,None
+13-03-2024,2024,3,Q1,11,Wednesday,0,Spring,None,0,None
+14-03-2024,2024,3,Q1,11,Thursday,0,Spring,None,0,None
+15-03-2024,2024,3,Q1,11,Friday,0,Spring,None,0,None
+16-03-2024,2024,3,Q1,11,Saturday,1,Spring,None,0,Seasonal Promotion
+17-03-2024,2024,3,Q1,11,Sunday,1,Spring,None,0,Seasonal Promotion
+18-03-2024,2024,3,Q1,12,Monday,0,Spring,None,0,None
+19-03-2024,2024,3,Q1,12,Tuesday,0,Spring,None,0,None
+20-03-2024,2024,3,Q1,12,Wednesday,0,Spring,None,0,None
+21-03-2024,2024,3,Q1,12,Thursday,0,Spring,None,0,None
+22-03-2024,2024,3,Q1,12,Friday,0,Spring,None,0,None
+23-03-2024,2024,3,Q1,12,Saturday,1,Spring,None,0,Seasonal Promotion
+24-03-2024,2024,3,Q1,12,Sunday,1,Spring,None,0,Seasonal Promotion
+25-03-2024,2024,3,Q1,13,Monday,0,Spring,None,0,None
+26-03-2024,2024,3,Q1,13,Tuesday,0,Spring,None,0,None
+27-03-2024,2024,3,Q1,13,Wednesday,0,Spring,None,0,None
+28-03-2024,2024,3,Q1,13,Thursday,0,Spring,None,0,None
+29-03-2024,2024,3,Q1,13,Friday,0,Spring,None,0,None
+30-03-2024,2024,3,Q1,13,Saturday,1,Spring,None,0,Seasonal Promotion
+31-03-2024,2024,3,Q1,13,Sunday,1,Spring,None,0,Seasonal Promotion
+01-04-2024,2024,4,Q2,14,Monday,0,Spring,None,0,None
+02-04-2024,2024,4,Q2,14,Tuesday,0,Spring,None,0,None
+03-04-2024,2024,4,Q2,14,Wednesday,0,Spring,None,0,None
+04-04-2024,2024,4,Q2,14,Thursday,0,Spring,None,0,None
+05-04-2024,2024,4,Q2,14,Friday,0,Spring,None,0,None
+06-04-2024,2024,4,Q2,14,Saturday,1,Spring,None,0,None
+07-04-2024,2024,4,Q2,14,Sunday,1,Spring,None,0,None
+08-04-2024,2024,4,Q2,15,Monday,0,Spring,None,0,None
+09-04-2024,2024,4,Q2,15,Tuesday,0,Spring,None,0,None
+10-04-2024,2024,4,Q2,15,Wednesday,0,Spring,None,0,None
+11-04-2024,2024,4,Q2,15,Thursday,0,Spring,None,0,None
+12-04-2024,2024,4,Q2,15,Friday,0,Spring,None,0,None
+13-04-2024,2024,4,Q2,15,Saturday,1,Spring,None,0,None
+14-04-2024,2024,4,Q2,15,Sunday,1,Spring,None,0,None
+15-04-2024,2024,4,Q2,16,Monday,0,Spring,None,0,None
+16-04-2024,2024,4,Q2,16,Tuesday,0,Spring,None,0,None
+17-04-2024,2024,4,Q2,16,Wednesday,0,Spring,None,0,None
+18-04-2024,2024,4,Q2,16,Thursday,0,Spring,None,0,None
+19-04-2024,2024,4,Q2,16,Friday,0,Spring,None,0,None
+20-04-2024,2024,4,Q2,16,Saturday,1,Spring,None,0,None
+21-04-2024,2024,4,Q2,16,Sunday,1,Spring,None,0,None
+22-04-2024,2024,4,Q2,17,Monday,0,Spring,None,0,None
+23-04-2024,2024,4,Q2,17,Tuesday,0,Spring,None,0,None
+24-04-2024,2024,4,Q2,17,Wednesday,0,Spring,None,0,None
+25-04-2024,2024,4,Q2,17,Thursday,0,Spring,None,0,None
+26-04-2024,2024,4,Q2,17,Friday,0,Spring,None,0,None
+27-04-2024,2024,4,Q2,17,Saturday,1,Spring,None,0,None
+28-04-2024,2024,4,Q2,17,Sunday,1,Spring,None,0,None
+29-04-2024,2024,4,Q2,18,Monday,0,Spring,None,0,None
+30-04-2024,2024,4,Q2,18,Tuesday,0,Spring,None,0,None
+01-05-2024,2024,5,Q2,18,Wednesday,0,Summer,None,0,None
+02-05-2024,2024,5,Q2,18,Thursday,0,Summer,None,0,None
+03-05-2024,2024,5,Q2,18,Friday,0,Summer,None,0,None
+04-05-2024,2024,5,Q2,18,Saturday,1,Summer,None,0,None
+05-05-2024,2024,5,Q2,18,Sunday,1,Summer,None,0,None
+06-05-2024,2024,5,Q2,19,Monday,0,Summer,None,0,None
+07-05-2024,2024,5,Q2,19,Tuesday,0,Summer,None,0,None
+08-05-2024,2024,5,Q2,19,Wednesday,0,Summer,None,0,None
+09-05-2024,2024,5,Q2,19,Thursday,0,Summer,None,0,None
+10-05-2024,2024,5,Q2,19,Friday,0,Summer,None,0,None
+11-05-2024,2024,5,Q2,19,Saturday,1,Summer,None,0,None
+12-05-2024,2024,5,Q2,19,Sunday,1,Summer,None,0,None
+13-05-2024,2024,5,Q2,20,Monday,0,Summer,None,0,None
+14-05-2024,2024,5,Q2,20,Tuesday,0,Summer,None,0,None
+15-05-2024,2024,5,Q2,20,Wednesday,0,Summer,None,0,None
+16-05-2024,2024,5,Q2,20,Thursday,0,Summer,None,0,None
+17-05-2024,2024,5,Q2,20,Friday,0,Summer,None,0,None
+18-05-2024,2024,5,Q2,20,Saturday,1,Summer,None,0,None
+19-05-2024,2024,5,Q2,20,Sunday,1,Summer,None,0,None
+20-05-2024,2024,5,Q2,21,Monday,0,Summer,None,0,None
+21-05-2024,2024,5,Q2,21,Tuesday,0,Summer,None,0,None
+22-05-2024,2024,5,Q2,21,Wednesday,0,Summer,None,0,None
+23-05-2024,2024,5,Q2,21,Thursday,0,Summer,None,0,None
+24-05-2024,2024,5,Q2,21,Friday,0,Summer,None,0,None
+25-05-2024,2024,5,Q2,21,Saturday,1,Summer,None,0,None
+26-05-2024,2024,5,Q2,21,Sunday,1,Summer,None,0,None
+27-05-2024,2024,5,Q2,22,Monday,0,Summer,None,0,None
+28-05-2024,2024,5,Q2,22,Tuesday,0,Summer,None,0,None
+29-05-2024,2024,5,Q2,22,Wednesday,0,Summer,None,0,None
+30-05-2024,2024,5,Q2,22,Thursday,0,Summer,None,0,None
+31-05-2024,2024,5,Q2,22,Friday,0,Summer,None,0,None
+01-06-2024,2024,6,Q2,22,Saturday,1,Summer,None,0,Seasonal Promotion
+02-06-2024,2024,6,Q2,22,Sunday,1,Summer,None,0,Seasonal Promotion
+03-06-2024,2024,6,Q2,23,Monday,0,Summer,None,0,None
+04-06-2024,2024,6,Q2,23,Tuesday,0,Summer,None,0,None
+05-06-2024,2024,6,Q2,23,Wednesday,0,Summer,None,0,None
+06-06-2024,2024,6,Q2,23,Thursday,0,Summer,None,0,None
+07-06-2024,2024,6,Q2,23,Friday,0,Summer,None,0,None
+08-06-2024,2024,6,Q2,23,Saturday,1,Summer,None,0,Seasonal Promotion
+09-06-2024,2024,6,Q2,23,Sunday,1,Summer,None,0,Seasonal Promotion
+10-06-2024,2024,6,Q2,24,Monday,0,Summer,None,0,None
+11-06-2024,2024,6,Q2,24,Tuesday,0,Summer,None,0,None
+12-06-2024,2024,6,Q2,24,Wednesday,0,Summer,None,0,None
+13-06-2024,2024,6,Q2,24,Thursday,0,Summer,None,0,None
+14-06-2024,2024,6,Q2,24,Friday,0,Summer,None,0,None
+15-06-2024,2024,6,Q2,24,Saturday,1,Summer,None,0,Seasonal Promotion
+16-06-2024,2024,6,Q2,24,Sunday,1,Summer,None,0,Seasonal Promotion
+17-06-2024,2024,6,Q2,25,Monday,0,Summer,None,0,None
+18-06-2024,2024,6,Q2,25,Tuesday,0,Summer,None,0,None
+19-06-2024,2024,6,Q2,25,Wednesday,0,Summer,None,0,None
+20-06-2024,2024,6,Q2,25,Thursday,0,Summer,None,0,None
+21-06-2024,2024,6,Q2,25,Friday,0,Summer,None,0,None
+22-06-2024,2024,6,Q2,25,Saturday,1,Summer,None,0,Seasonal Promotion
+23-06-2024,2024,6,Q2,25,Sunday,1,Summer,None,0,Seasonal Promotion
+24-06-2024,2024,6,Q2,26,Monday,0,Summer,None,0,None
+25-06-2024,2024,6,Q2,26,Tuesday,0,Summer,None,0,None
+26-06-2024,2024,6,Q2,26,Wednesday,0,Summer,None,0,None
+27-06-2024,2024,6,Q2,26,Thursday,0,Summer,None,0,None
+28-06-2024,2024,6,Q2,26,Friday,0,Summer,None,0,None
+29-06-2024,2024,6,Q2,26,Saturday,1,Summer,None,0,Seasonal Promotion
+30-06-2024,2024,6,Q2,26,Sunday,1,Summer,None,0,Seasonal Promotion
+01-07-2024,2024,7,Q3,27,Monday,0,Monsoon,None,0,None
+02-07-2024,2024,7,Q3,27,Tuesday,0,Monsoon,None,0,None
+03-07-2024,2024,7,Q3,27,Wednesday,0,Monsoon,None,0,None
+04-07-2024,2024,7,Q3,27,Thursday,0,Monsoon,None,0,None
+05-07-2024,2024,7,Q3,27,Friday,0,Monsoon,None,0,None
+06-07-2024,2024,7,Q3,27,Saturday,1,Monsoon,None,0,None
+07-07-2024,2024,7,Q3,27,Sunday,1,Monsoon,None,0,None
+08-07-2024,2024,7,Q3,28,Monday,0,Monsoon,None,0,None
+09-07-2024,2024,7,Q3,28,Tuesday,0,Monsoon,None,0,None
+10-07-2024,2024,7,Q3,28,Wednesday,0,Monsoon,None,0,None
+11-07-2024,2024,7,Q3,28,Thursday,0,Monsoon,None,0,None
+12-07-2024,2024,7,Q3,28,Friday,0,Monsoon,None,0,None
+13-07-2024,2024,7,Q3,28,Saturday,1,Monsoon,None,0,None
+14-07-2024,2024,7,Q3,28,Sunday,1,Monsoon,None,0,None
+15-07-2024,2024,7,Q3,29,Monday,0,Monsoon,None,0,None
+16-07-2024,2024,7,Q3,29,Tuesday,0,Monsoon,None,0,None
+17-07-2024,2024,7,Q3,29,Wednesday,0,Monsoon,None,0,None
+18-07-2024,2024,7,Q3,29,Thursday,0,Monsoon,None,0,None
+19-07-2024,2024,7,Q3,29,Friday,0,Monsoon,None,0,None
+20-07-2024,2024,7,Q3,29,Saturday,1,Monsoon,None,0,None
+21-07-2024,2024,7,Q3,29,Sunday,1,Monsoon,None,0,None
+22-07-2024,2024,7,Q3,30,Monday,0,Monsoon,None,0,None
+23-07-2024,2024,7,Q3,30,Tuesday,0,Monsoon,None,0,None
+24-07-2024,2024,7,Q3,30,Wednesday,0,Monsoon,None,0,None
+25-07-2024,2024,7,Q3,30,Thursday,0,Monsoon,None,0,None
+26-07-2024,2024,7,Q3,30,Friday,0,Monsoon,None,0,None
+27-07-2024,2024,7,Q3,30,Saturday,1,Monsoon,None,0,None
+28-07-2024,2024,7,Q3,30,Sunday,1,Monsoon,None,0,None
+29-07-2024,2024,7,Q3,31,Monday,0,Monsoon,None,0,None
+30-07-2024,2024,7,Q3,31,Tuesday,0,Monsoon,None,0,None
+31-07-2024,2024,7,Q3,31,Wednesday,0,Monsoon,None,0,None
+01-08-2024,2024,8,Q3,31,Thursday,0,Monsoon,None,0,None
+02-08-2024,2024,8,Q3,31,Friday,0,Monsoon,None,0,None
+03-08-2024,2024,8,Q3,31,Saturday,1,Monsoon,None,0,None
+04-08-2024,2024,8,Q3,31,Sunday,1,Monsoon,None,0,None
+05-08-2024,2024,8,Q3,32,Monday,0,Monsoon,None,0,None
+06-08-2024,2024,8,Q3,32,Tuesday,0,Monsoon,None,0,None
+07-08-2024,2024,8,Q3,32,Wednesday,0,Monsoon,None,0,None
+08-08-2024,2024,8,Q3,32,Thursday,0,Monsoon,None,0,None
+09-08-2024,2024,8,Q3,32,Friday,0,Monsoon,None,0,None
+10-08-2024,2024,8,Q3,32,Saturday,1,Monsoon,None,0,None
+11-08-2024,2024,8,Q3,32,Sunday,1,Monsoon,None,0,None
+12-08-2024,2024,8,Q3,33,Monday,0,Monsoon,None,0,None
+13-08-2024,2024,8,Q3,33,Tuesday,0,Monsoon,None,0,None
+14-08-2024,2024,8,Q3,33,Wednesday,0,Monsoon,None,0,None
+15-08-2024,2024,8,Q3,33,Thursday,0,Monsoon,Independence Day,1,None
+16-08-2024,2024,8,Q3,33,Friday,0,Monsoon,None,0,None
+17-08-2024,2024,8,Q3,33,Saturday,1,Monsoon,None,0,None
+18-08-2024,2024,8,Q3,33,Sunday,1,Monsoon,None,0,None
+19-08-2024,2024,8,Q3,34,Monday,0,Monsoon,None,0,None
+20-08-2024,2024,8,Q3,34,Tuesday,0,Monsoon,None,0,None
+21-08-2024,2024,8,Q3,34,Wednesday,0,Monsoon,None,0,None
+22-08-2024,2024,8,Q3,34,Thursday,0,Monsoon,None,0,None
+23-08-2024,2024,8,Q3,34,Friday,0,Monsoon,None,0,None
+24-08-2024,2024,8,Q3,34,Saturday,1,Monsoon,None,0,None
+25-08-2024,2024,8,Q3,34,Sunday,1,Monsoon,None,0,None
+26-08-2024,2024,8,Q3,35,Monday,0,Monsoon,None,0,None
+27-08-2024,2024,8,Q3,35,Tuesday,0,Monsoon,None,0,None
+28-08-2024,2024,8,Q3,35,Wednesday,0,Monsoon,None,0,None
+29-08-2024,2024,8,Q3,35,Thursday,0,Monsoon,None,0,None
+30-08-2024,2024,8,Q3,35,Friday,0,Monsoon,None,0,None
+31-08-2024,2024,8,Q3,35,Saturday,1,Monsoon,None,0,None
+01-09-2024,2024,9,Q3,35,Sunday,1,Monsoon,None,0,Seasonal Promotion
+02-09-2024,2024,9,Q3,36,Monday,0,Monsoon,None,0,None
+03-09-2024,2024,9,Q3,36,Tuesday,0,Monsoon,None,0,None
+04-09-2024,2024,9,Q3,36,Wednesday,0,Monsoon,None,0,None
+05-09-2024,2024,9,Q3,36,Thursday,0,Monsoon,None,0,None
+06-09-2024,2024,9,Q3,36,Friday,0,Monsoon,None,0,None
+07-09-2024,2024,9,Q3,36,Saturday,1,Monsoon,None,0,Seasonal Promotion
+08-09-2024,2024,9,Q3,36,Sunday,1,Monsoon,None,0,Seasonal Promotion
+09-09-2024,2024,9,Q3,37,Monday,0,Monsoon,None,0,None
+10-09-2024,2024,9,Q3,37,Tuesday,0,Monsoon,None,0,None
+11-09-2024,2024,9,Q3,37,Wednesday,0,Monsoon,None,0,None
+12-09-2024,2024,9,Q3,37,Thursday,0,Monsoon,None,0,None
+13-09-2024,2024,9,Q3,37,Friday,0,Monsoon,None,0,None
+14-09-2024,2024,9,Q3,37,Saturday,1,Monsoon,None,0,Seasonal Promotion
+15-09-2024,2024,9,Q3,37,Sunday,1,Monsoon,None,0,Seasonal Promotion
+16-09-2024,2024,9,Q3,38,Monday,0,Monsoon,None,0,None
+17-09-2024,2024,9,Q3,38,Tuesday,0,Monsoon,None,0,None
+18-09-2024,2024,9,Q3,38,Wednesday,0,Monsoon,None,0,None
+19-09-2024,2024,9,Q3,38,Thursday,0,Monsoon,None,0,None
+20-09-2024,2024,9,Q3,38,Friday,0,Monsoon,None,0,None
+21-09-2024,2024,9,Q3,38,Saturday,1,Monsoon,None,0,Seasonal Promotion
+22-09-2024,2024,9,Q3,38,Sunday,1,Monsoon,None,0,Seasonal Promotion
+23-09-2024,2024,9,Q3,39,Monday,0,Monsoon,None,0,None
+24-09-2024,2024,9,Q3,39,Tuesday,0,Monsoon,None,0,None
+25-09-2024,2024,9,Q3,39,Wednesday,0,Monsoon,None,0,None
+26-09-2024,2024,9,Q3,39,Thursday,0,Monsoon,None,0,None
+27-09-2024,2024,9,Q3,39,Friday,0,Monsoon,None,0,None
+28-09-2024,2024,9,Q3,39,Saturday,1,Monsoon,None,0,Seasonal Promotion
+29-09-2024,2024,9,Q3,39,Sunday,1,Monsoon,None,0,Seasonal Promotion
+30-09-2024,2024,9,Q3,40,Monday,0,Monsoon,None,0,None
+01-10-2024,2024,10,Q4,40,Tuesday,0,Autumn,None,0,None
+02-10-2024,2024,10,Q4,40,Wednesday,0,Autumn,None,0,None
+03-10-2024,2024,10,Q4,40,Thursday,0,Autumn,None,0,None
+04-10-2024,2024,10,Q4,40,Friday,0,Autumn,None,0,None
+05-10-2024,2024,10,Q4,40,Saturday,1,Autumn,None,0,None
+06-10-2024,2024,10,Q4,40,Sunday,1,Autumn,None,0,None
+07-10-2024,2024,10,Q4,41,Monday,0,Autumn,None,0,None
+08-10-2024,2024,10,Q4,41,Tuesday,0,Autumn,None,0,None
+09-10-2024,2024,10,Q4,41,Wednesday,0,Autumn,None,0,None
+10-10-2024,2024,10,Q4,41,Thursday,0,Autumn,None,0,None
+11-10-2024,2024,10,Q4,41,Friday,0,Autumn,None,0,None
+12-10-2024,2024,10,Q4,41,Saturday,1,Autumn,None,0,None
+13-10-2024,2024,10,Q4,41,Sunday,1,Autumn,None,0,None
+14-10-2024,2024,10,Q4,42,Monday,0,Autumn,None,0,None
+15-10-2024,2024,10,Q4,42,Tuesday,0,Autumn,None,0,None
+16-10-2024,2024,10,Q4,42,Wednesday,0,Autumn,None,0,None
+17-10-2024,2024,10,Q4,42,Thursday,0,Autumn,None,0,None
+18-10-2024,2024,10,Q4,42,Friday,0,Autumn,None,0,None
+19-10-2024,2024,10,Q4,42,Saturday,1,Autumn,None,0,None
+20-10-2024,2024,10,Q4,42,Sunday,1,Autumn,None,0,None
+21-10-2024,2024,10,Q4,43,Monday,0,Autumn,None,0,None
+22-10-2024,2024,10,Q4,43,Tuesday,0,Autumn,None,0,None
+23-10-2024,2024,10,Q4,43,Wednesday,0,Autumn,None,0,None
+24-10-2024,2024,10,Q4,43,Thursday,0,Autumn,None,0,None
+25-10-2024,2024,10,Q4,43,Friday,0,Autumn,None,0,None
+26-10-2024,2024,10,Q4,43,Saturday,1,Autumn,None,0,None
+27-10-2024,2024,10,Q4,43,Sunday,1,Autumn,None,0,None
+28-10-2024,2024,10,Q4,44,Monday,0,Autumn,None,0,None
+29-10-2024,2024,10,Q4,44,Tuesday,0,Autumn,None,0,None
+30-10-2024,2024,10,Q4,44,Wednesday,0,Autumn,None,0,None
+31-10-2024,2024,10,Q4,44,Thursday,0,Autumn,Diwali,1,None
+01-11-2024,2024,11,Q4,44,Friday,0,Autumn,None,0,None
+02-11-2024,2024,11,Q4,44,Saturday,1,Autumn,None,0,Seasonal Promotion
+03-11-2024,2024,11,Q4,44,Sunday,1,Autumn,None,0,Seasonal Promotion
+04-11-2024,2024,11,Q4,45,Monday,0,Autumn,None,0,None
+05-11-2024,2024,11,Q4,45,Tuesday,0,Autumn,None,0,None
+06-11-2024,2024,11,Q4,45,Wednesday,0,Autumn,None,0,None
+07-11-2024,2024,11,Q4,45,Thursday,0,Autumn,None,0,None
+08-11-2024,2024,11,Q4,45,Friday,0,Autumn,None,0,None
+09-11-2024,2024,11,Q4,45,Saturday,1,Autumn,None,0,Seasonal Promotion
+10-11-2024,2024,11,Q4,45,Sunday,1,Autumn,None,0,Seasonal Promotion
+11-11-2024,2024,11,Q4,46,Monday,0,Autumn,None,0,None
+12-11-2024,2024,11,Q4,46,Tuesday,0,Autumn,None,0,None
+13-11-2024,2024,11,Q4,46,Wednesday,0,Autumn,None,0,None
+14-11-2024,2024,11,Q4,46,Thursday,0,Autumn,None,0,None
+15-11-2024,2024,11,Q4,46,Friday,0,Autumn,None,0,None
+16-11-2024,2024,11,Q4,46,Saturday,1,Autumn,None,0,Seasonal Promotion
+17-11-2024,2024,11,Q4,46,Sunday,1,Autumn,None,0,Seasonal Promotion
+18-11-2024,2024,11,Q4,47,Monday,0,Autumn,None,0,None
+19-11-2024,2024,11,Q4,47,Tuesday,0,Autumn,None,0,None
+20-11-2024,2024,11,Q4,47,Wednesday,0,Autumn,None,0,None
+21-11-2024,2024,11,Q4,47,Thursday,0,Autumn,None,0,None
+22-11-2024,2024,11,Q4,47,Friday,0,Autumn,None,0,None
+23-11-2024,2024,11,Q4,47,Saturday,1,Autumn,None,0,Seasonal Promotion
+24-11-2024,2024,11,Q4,47,Sunday,1,Autumn,None,0,Seasonal Promotion
+25-11-2024,2024,11,Q4,48,Monday,0,Autumn,None,0,None
+26-11-2024,2024,11,Q4,48,Tuesday,0,Autumn,None,0,None
+27-11-2024,2024,11,Q4,48,Wednesday,0,Autumn,None,0,None
+28-11-2024,2024,11,Q4,48,Thursday,0,Autumn,None,0,None
+29-11-2024,2024,11,Q4,48,Friday,0,Autumn,None,0,None
+30-11-2024,2024,11,Q4,48,Saturday,1,Autumn,None,0,Seasonal Promotion
+01-12-2024,2024,12,Q4,48,Sunday,1,Winter,None,0,None
+02-12-2024,2024,12,Q4,49,Monday,0,Winter,None,0,None
+03-12-2024,2024,12,Q4,49,Tuesday,0,Winter,None,0,None
+04-12-2024,2024,12,Q4,49,Wednesday,0,Winter,None,0,None
+05-12-2024,2024,12,Q4,49,Thursday,0,Winter,None,0,None
+06-12-2024,2024,12,Q4,49,Friday,0,Winter,None,0,None
+07-12-2024,2024,12,Q4,49,Saturday,1,Winter,None,0,None
+08-12-2024,2024,12,Q4,49,Sunday,1,Winter,None,0,None
+09-12-2024,2024,12,Q4,50,Monday,0,Winter,None,0,None
+10-12-2024,2024,12,Q4,50,Tuesday,0,Winter,None,0,None
+11-12-2024,2024,12,Q4,50,Wednesday,0,Winter,None,0,None
+12-12-2024,2024,12,Q4,50,Thursday,0,Winter,None,0,None
+13-12-2024,2024,12,Q4,50,Friday,0,Winter,None,0,None
+14-12-2024,2024,12,Q4,50,Saturday,1,Winter,None,0,None
+15-12-2024,2024,12,Q4,50,Sunday,1,Winter,None,0,None
+16-12-2024,2024,12,Q4,51,Monday,0,Winter,None,0,None
+17-12-2024,2024,12,Q4,51,Tuesday,0,Winter,None,0,None
+18-12-2024,2024,12,Q4,51,Wednesday,0,Winter,None,0,None
+19-12-2024,2024,12,Q4,51,Thursday,0,Winter,None,0,None
+20-12-2024,2024,12,Q4,51,Friday,0,Winter,None,0,None
+21-12-2024,2024,12,Q4,51,Saturday,1,Winter,None,0,None
+22-12-2024,2024,12,Q4,51,Sunday,1,Winter,None,0,None
+23-12-2024,2024,12,Q4,52,Monday,0,Winter,None,0,None
+24-12-2024,2024,12,Q4,52,Tuesday,0,Winter,None,0,None
+25-12-2024,2024,12,Q4,52,Wednesday,0,Winter,Christmas,1,None
+26-12-2024,2024,12,Q4,52,Thursday,0,Winter,None,0,None
+27-12-2024,2024,12,Q4,52,Friday,0,Winter,None,0,None
+28-12-2024,2024,12,Q4,52,Saturday,1,Winter,None,0,None
+29-12-2024,2024,12,Q4,52,Sunday,1,Winter,None,0,None
+30-12-2024,2024,12,Q4,1,Monday,0,Winter,None,0,None
+31-12-2024,2024,12,Q4,1,Tuesday,0,Winter,None,0,None
+01-01-2025,2025,1,Q1,1,Wednesday,0,Winter,None,0,None
+02-01-2025,2025,1,Q1,1,Thursday,0,Winter,None,0,None
+03-01-2025,2025,1,Q1,1,Friday,0,Winter,None,0,None
+04-01-2025,2025,1,Q1,1,Saturday,1,Winter,None,0,None
+05-01-2025,2025,1,Q1,1,Sunday,1,Winter,None,0,None
+06-01-2025,2025,1,Q1,2,Monday,0,Winter,None,0,None
+07-01-2025,2025,1,Q1,2,Tuesday,0,Winter,None,0,None
+08-01-2025,2025,1,Q1,2,Wednesday,0,Winter,None,0,None
+09-01-2025,2025,1,Q1,2,Thursday,0,Winter,None,0,None
+10-01-2025,2025,1,Q1,2,Friday,0,Winter,None,0,None
+11-01-2025,2025,1,Q1,2,Saturday,1,Winter,None,0,None
+12-01-2025,2025,1,Q1,2,Sunday,1,Winter,None,0,None
+13-01-2025,2025,1,Q1,3,Monday,0,Winter,None,0,None
+14-01-2025,2025,1,Q1,3,Tuesday,0,Winter,None,0,None
+15-01-2025,2025,1,Q1,3,Wednesday,0,Winter,None,0,None
+16-01-2025,2025,1,Q1,3,Thursday,0,Winter,None,0,None
+17-01-2025,2025,1,Q1,3,Friday,0,Winter,None,0,None
+18-01-2025,2025,1,Q1,3,Saturday,1,Winter,None,0,None
+19-01-2025,2025,1,Q1,3,Sunday,1,Winter,None,0,None
+20-01-2025,2025,1,Q1,4,Monday,0,Winter,None,0,None
+21-01-2025,2025,1,Q1,4,Tuesday,0,Winter,None,0,None
+22-01-2025,2025,1,Q1,4,Wednesday,0,Winter,None,0,None
+23-01-2025,2025,1,Q1,4,Thursday,0,Winter,None,0,None
+24-01-2025,2025,1,Q1,4,Friday,0,Winter,None,0,None
+25-01-2025,2025,1,Q1,4,Saturday,1,Winter,None,0,None
+26-01-2025,2025,1,Q1,4,Sunday,1,Winter,Republic Day,1,None
+27-01-2025,2025,1,Q1,5,Monday,0,Winter,None,0,None
+28-01-2025,2025,1,Q1,5,Tuesday,0,Winter,None,0,None
+29-01-2025,2025,1,Q1,5,Wednesday,0,Winter,None,0,None
+30-01-2025,2025,1,Q1,5,Thursday,0,Winter,None,0,None
+31-01-2025,2025,1,Q1,5,Friday,0,Winter,None,0,None
+01-02-2025,2025,2,Q1,5,Saturday,1,Winter,None,0,None
+02-02-2025,2025,2,Q1,5,Sunday,1,Winter,None,0,None
+03-02-2025,2025,2,Q1,6,Monday,0,Winter,None,0,None
+04-02-2025,2025,2,Q1,6,Tuesday,0,Winter,None,0,None
+05-02-2025,2025,2,Q1,6,Wednesday,0,Winter,None,0,None
+06-02-2025,2025,2,Q1,6,Thursday,0,Winter,None,0,None
+07-02-2025,2025,2,Q1,6,Friday,0,Winter,None,0,None
+08-02-2025,2025,2,Q1,6,Saturday,1,Winter,None,0,None
+09-02-2025,2025,2,Q1,6,Sunday,1,Winter,None,0,None
+10-02-2025,2025,2,Q1,7,Monday,0,Winter,None,0,None
+11-02-2025,2025,2,Q1,7,Tuesday,0,Winter,None,0,None
+12-02-2025,2025,2,Q1,7,Wednesday,0,Winter,None,0,None
+13-02-2025,2025,2,Q1,7,Thursday,0,Winter,None,0,None
+14-02-2025,2025,2,Q1,7,Friday,0,Winter,None,0,None
+15-02-2025,2025,2,Q1,7,Saturday,1,Winter,None,0,None
+16-02-2025,2025,2,Q1,7,Sunday,1,Winter,None,0,None
+17-02-2025,2025,2,Q1,8,Monday,0,Winter,None,0,None
+18-02-2025,2025,2,Q1,8,Tuesday,0,Winter,None,0,None
+19-02-2025,2025,2,Q1,8,Wednesday,0,Winter,None,0,None
+20-02-2025,2025,2,Q1,8,Thursday,0,Winter,None,0,None
+21-02-2025,2025,2,Q1,8,Friday,0,Winter,None,0,None
+22-02-2025,2025,2,Q1,8,Saturday,1,Winter,None,0,None
+23-02-2025,2025,2,Q1,8,Sunday,1,Winter,None,0,None
+24-02-2025,2025,2,Q1,9,Monday,0,Winter,None,0,None
+25-02-2025,2025,2,Q1,9,Tuesday,0,Winter,None,0,None
+26-02-2025,2025,2,Q1,9,Wednesday,0,Winter,None,0,None
+27-02-2025,2025,2,Q1,9,Thursday,0,Winter,None,0,None
+28-02-2025,2025,2,Q1,9,Friday,0,Winter,None,0,None
+01-03-2025,2025,3,Q1,9,Saturday,1,Spring,None,0,Seasonal Promotion
+02-03-2025,2025,3,Q1,9,Sunday,1,Spring,None,0,Seasonal Promotion
+03-03-2025,2025,3,Q1,10,Monday,0,Spring,None,0,None
+04-03-2025,2025,3,Q1,10,Tuesday,0,Spring,None,0,None
+05-03-2025,2025,3,Q1,10,Wednesday,0,Spring,None,0,None
+06-03-2025,2025,3,Q1,10,Thursday,0,Spring,None,0,None
+07-03-2025,2025,3,Q1,10,Friday,0,Spring,None,0,None
+08-03-2025,2025,3,Q1,10,Saturday,1,Spring,None,0,Seasonal Promotion
+09-03-2025,2025,3,Q1,10,Sunday,1,Spring,None,0,Seasonal Promotion
+10-03-2025,2025,3,Q1,11,Monday,0,Spring,None,0,None
+11-03-2025,2025,3,Q1,11,Tuesday,0,Spring,None,0,None
+12-03-2025,2025,3,Q1,11,Wednesday,0,Spring,None,0,None
+13-03-2025,2025,3,Q1,11,Thursday,0,Spring,None,0,None
+14-03-2025,2025,3,Q1,11,Friday,0,Spring,None,0,None
+15-03-2025,2025,3,Q1,11,Saturday,1,Spring,None,0,Seasonal Promotion
+16-03-2025,2025,3,Q1,11,Sunday,1,Spring,None,0,Seasonal Promotion
+17-03-2025,2025,3,Q1,12,Monday,0,Spring,None,0,None
+18-03-2025,2025,3,Q1,12,Tuesday,0,Spring,None,0,None
+19-03-2025,2025,3,Q1,12,Wednesday,0,Spring,None,0,None
+20-03-2025,2025,3,Q1,12,Thursday,0,Spring,None,0,None
+21-03-2025,2025,3,Q1,12,Friday,0,Spring,None,0,None
+22-03-2025,2025,3,Q1,12,Saturday,1,Spring,None,0,Seasonal Promotion
+23-03-2025,2025,3,Q1,12,Sunday,1,Spring,None,0,Seasonal Promotion
+24-03-2025,2025,3,Q1,13,Monday,0,Spring,None,0,None
+25-03-2025,2025,3,Q1,13,Tuesday,0,Spring,None,0,None
+26-03-2025,2025,3,Q1,13,Wednesday,0,Spring,None,0,None
+27-03-2025,2025,3,Q1,13,Thursday,0,Spring,None,0,None
+28-03-2025,2025,3,Q1,13,Friday,0,Spring,None,0,None
+29-03-2025,2025,3,Q1,13,Saturday,1,Spring,None,0,Seasonal Promotion
+30-03-2025,2025,3,Q1,13,Sunday,1,Spring,None,0,Seasonal Promotion
+31-03-2025,2025,3,Q1,14,Monday,0,Spring,None,0,None
+01-04-2025,2025,4,Q2,14,Tuesday,0,Spring,None,0,None
+02-04-2025,2025,4,Q2,14,Wednesday,0,Spring,None,0,None
+03-04-2025,2025,4,Q2,14,Thursday,0,Spring,None,0,None
+04-04-2025,2025,4,Q2,14,Friday,0,Spring,None,0,None
+05-04-2025,2025,4,Q2,14,Saturday,1,Spring,None,0,None
+06-04-2025,2025,4,Q2,14,Sunday,1,Spring,None,0,None
+07-04-2025,2025,4,Q2,15,Monday,0,Spring,None,0,None
+08-04-2025,2025,4,Q2,15,Tuesday,0,Spring,None,0,None
+09-04-2025,2025,4,Q2,15,Wednesday,0,Spring,None,0,None
+10-04-2025,2025,4,Q2,15,Thursday,0,Spring,None,0,None
+11-04-2025,2025,4,Q2,15,Friday,0,Spring,None,0,None
+12-04-2025,2025,4,Q2,15,Saturday,1,Spring,None,0,None
+13-04-2025,2025,4,Q2,15,Sunday,1,Spring,None,0,None
+14-04-2025,2025,4,Q2,16,Monday,0,Spring,None,0,None
+15-04-2025,2025,4,Q2,16,Tuesday,0,Spring,None,0,None
+16-04-2025,2025,4,Q2,16,Wednesday,0,Spring,None,0,None
+17-04-2025,2025,4,Q2,16,Thursday,0,Spring,None,0,None
+18-04-2025,2025,4,Q2,16,Friday,0,Spring,None,0,None
+19-04-2025,2025,4,Q2,16,Saturday,1,Spring,None,0,None
+20-04-2025,2025,4,Q2,16,Sunday,1,Spring,None,0,None
+21-04-2025,2025,4,Q2,17,Monday,0,Spring,None,0,None
+22-04-2025,2025,4,Q2,17,Tuesday,0,Spring,None,0,None
+23-04-2025,2025,4,Q2,17,Wednesday,0,Spring,None,0,None
+24-04-2025,2025,4,Q2,17,Thursday,0,Spring,None,0,None
+25-04-2025,2025,4,Q2,17,Friday,0,Spring,None,0,None
+26-04-2025,2025,4,Q2,17,Saturday,1,Spring,None,0,None
+27-04-2025,2025,4,Q2,17,Sunday,1,Spring,None,0,None
+28-04-2025,2025,4,Q2,18,Monday,0,Spring,None,0,None
+29-04-2025,2025,4,Q2,18,Tuesday,0,Spring,None,0,None
+30-04-2025,2025,4,Q2,18,Wednesday,0,Spring,None,0,None
+01-05-2025,2025,5,Q2,18,Thursday,0,Summer,None,0,None
+02-05-2025,2025,5,Q2,18,Friday,0,Summer,None,0,None
+03-05-2025,2025,5,Q2,18,Saturday,1,Summer,None,0,None
+04-05-2025,2025,5,Q2,18,Sunday,1,Summer,None,0,None
+05-05-2025,2025,5,Q2,19,Monday,0,Summer,None,0,None
+06-05-2025,2025,5,Q2,19,Tuesday,0,Summer,None,0,None
+07-05-2025,2025,5,Q2,19,Wednesday,0,Summer,None,0,None
+08-05-2025,2025,5,Q2,19,Thursday,0,Summer,None,0,None
+09-05-2025,2025,5,Q2,19,Friday,0,Summer,None,0,None
+10-05-2025,2025,5,Q2,19,Saturday,1,Summer,None,0,None
+11-05-2025,2025,5,Q2,19,Sunday,1,Summer,None,0,None
+12-05-2025,2025,5,Q2,20,Monday,0,Summer,None,0,None
+13-05-2025,2025,5,Q2,20,Tuesday,0,Summer,None,0,None
+14-05-2025,2025,5,Q2,20,Wednesday,0,Summer,None,0,None
+15-05-2025,2025,5,Q2,20,Thursday,0,Summer,None,0,None
+16-05-2025,2025,5,Q2,20,Friday,0,Summer,None,0,None
+17-05-2025,2025,5,Q2,20,Saturday,1,Summer,None,0,None
+18-05-2025,2025,5,Q2,20,Sunday,1,Summer,None,0,None
+19-05-2025,2025,5,Q2,21,Monday,0,Summer,None,0,None
+20-05-2025,2025,5,Q2,21,Tuesday,0,Summer,None,0,None
+21-05-2025,2025,5,Q2,21,Wednesday,0,Summer,None,0,None
+22-05-2025,2025,5,Q2,21,Thursday,0,Summer,None,0,None
+23-05-2025,2025,5,Q2,21,Friday,0,Summer,None,0,None
+24-05-2025,2025,5,Q2,21,Saturday,1,Summer,None,0,None
+25-05-2025,2025,5,Q2,21,Sunday,1,Summer,None,0,None
+26-05-2025,2025,5,Q2,22,Monday,0,Summer,None,0,None
+27-05-2025,2025,5,Q2,22,Tuesday,0,Summer,None,0,None
+28-05-2025,2025,5,Q2,22,Wednesday,0,Summer,None,0,None
+29-05-2025,2025,5,Q2,22,Thursday,0,Summer,None,0,None
+30-05-2025,2025,5,Q2,22,Friday,0,Summer,None,0,None
+31-05-2025,2025,5,Q2,22,Saturday,1,Summer,None,0,None
+01-06-2025,2025,6,Q2,22,Sunday,1,Summer,None,0,Seasonal Promotion
+02-06-2025,2025,6,Q2,23,Monday,0,Summer,None,0,None
+03-06-2025,2025,6,Q2,23,Tuesday,0,Summer,None,0,None
+04-06-2025,2025,6,Q2,23,Wednesday,0,Summer,None,0,None
+05-06-2025,2025,6,Q2,23,Thursday,0,Summer,None,0,None
+06-06-2025,2025,6,Q2,23,Friday,0,Summer,None,0,None
+07-06-2025,2025,6,Q2,23,Saturday,1,Summer,None,0,Seasonal Promotion
+08-06-2025,2025,6,Q2,23,Sunday,1,Summer,None,0,Seasonal Promotion
+09-06-2025,2025,6,Q2,24,Monday,0,Summer,None,0,None
+10-06-2025,2025,6,Q2,24,Tuesday,0,Summer,None,0,None
+11-06-2025,2025,6,Q2,24,Wednesday,0,Summer,None,0,None
+12-06-2025,2025,6,Q2,24,Thursday,0,Summer,None,0,None
+13-06-2025,2025,6,Q2,24,Friday,0,Summer,None,0,None
+14-06-2025,2025,6,Q2,24,Saturday,1,Summer,None,0,Seasonal Promotion
+15-06-2025,2025,6,Q2,24,Sunday,1,Summer,None,0,Seasonal Promotion
+16-06-2025,2025,6,Q2,25,Monday,0,Summer,None,0,None
+17-06-2025,2025,6,Q2,25,Tuesday,0,Summer,None,0,None
+18-06-2025,2025,6,Q2,25,Wednesday,0,Summer,None,0,None
+19-06-2025,2025,6,Q2,25,Thursday,0,Summer,None,0,None
+20-06-2025,2025,6,Q2,25,Friday,0,Summer,None,0,None
+21-06-2025,2025,6,Q2,25,Saturday,1,Summer,None,0,Seasonal Promotion
+22-06-2025,2025,6,Q2,25,Sunday,1,Summer,None,0,Seasonal Promotion
+23-06-2025,2025,6,Q2,26,Monday,0,Summer,None,0,None
+24-06-2025,2025,6,Q2,26,Tuesday,0,Summer,None,0,None
+25-06-2025,2025,6,Q2,26,Wednesday,0,Summer,None,0,None
+26-06-2025,2025,6,Q2,26,Thursday,0,Summer,None,0,None
+27-06-2025,2025,6,Q2,26,Friday,0,Summer,None,0,None
+28-06-2025,2025,6,Q2,26,Saturday,1,Summer,None,0,Seasonal Promotion
+29-06-2025,2025,6,Q2,26,Sunday,1,Summer,None,0,Seasonal Promotion
+30-06-2025,2025,6,Q2,27,Monday,0,Summer,None,0,None
+01-07-2025,2025,7,Q3,27,Tuesday,0,Monsoon,None,0,None
+02-07-2025,2025,7,Q3,27,Wednesday,0,Monsoon,None,0,None
+03-07-2025,2025,7,Q3,27,Thursday,0,Monsoon,None,0,None
+04-07-2025,2025,7,Q3,27,Friday,0,Monsoon,None,0,None
+05-07-2025,2025,7,Q3,27,Saturday,1,Monsoon,None,0,None
+06-07-2025,2025,7,Q3,27,Sunday,1,Monsoon,None,0,None
+07-07-2025,2025,7,Q3,28,Monday,0,Monsoon,None,0,None
+08-07-2025,2025,7,Q3,28,Tuesday,0,Monsoon,None,0,None
+09-07-2025,2025,7,Q3,28,Wednesday,0,Monsoon,None,0,None
+10-07-2025,2025,7,Q3,28,Thursday,0,Monsoon,None,0,None
+11-07-2025,2025,7,Q3,28,Friday,0,Monsoon,None,0,None
+12-07-2025,2025,7,Q3,28,Saturday,1,Monsoon,None,0,None
+13-07-2025,2025,7,Q3,28,Sunday,1,Monsoon,None,0,None
+14-07-2025,2025,7,Q3,29,Monday,0,Monsoon,None,0,None
+15-07-2025,2025,7,Q3,29,Tuesday,0,Monsoon,None,0,None
+16-07-2025,2025,7,Q3,29,Wednesday,0,Monsoon,None,0,None
+17-07-2025,2025,7,Q3,29,Thursday,0,Monsoon,None,0,None
+18-07-2025,2025,7,Q3,29,Friday,0,Monsoon,None,0,None
+19-07-2025,2025,7,Q3,29,Saturday,1,Monsoon,None,0,None
+20-07-2025,2025,7,Q3,29,Sunday,1,Monsoon,None,0,None
+21-07-2025,2025,7,Q3,30,Monday,0,Monsoon,None,0,None
+22-07-2025,2025,7,Q3,30,Tuesday,0,Monsoon,None,0,None
+23-07-2025,2025,7,Q3,30,Wednesday,0,Monsoon,None,0,None
+24-07-2025,2025,7,Q3,30,Thursday,0,Monsoon,None,0,None
+25-07-2025,2025,7,Q3,30,Friday,0,Monsoon,None,0,None
+26-07-2025,2025,7,Q3,30,Saturday,1,Monsoon,None,0,None
+27-07-2025,2025,7,Q3,30,Sunday,1,Monsoon,None,0,None
+28-07-2025,2025,7,Q3,31,Monday,0,Monsoon,None,0,None
+29-07-2025,2025,7,Q3,31,Tuesday,0,Monsoon,None,0,None
+30-07-2025,2025,7,Q3,31,Wednesday,0,Monsoon,None,0,None
+31-07-2025,2025,7,Q3,31,Thursday,0,Monsoon,None,0,None
+01-08-2025,2025,8,Q3,31,Friday,0,Monsoon,None,0,None
+02-08-2025,2025,8,Q3,31,Saturday,1,Monsoon,None,0,None
+03-08-2025,2025,8,Q3,31,Sunday,1,Monsoon,None,0,None
+04-08-2025,2025,8,Q3,32,Monday,0,Monsoon,None,0,None
+05-08-2025,2025,8,Q3,32,Tuesday,0,Monsoon,None,0,None
+06-08-2025,2025,8,Q3,32,Wednesday,0,Monsoon,None,0,None
+07-08-2025,2025,8,Q3,32,Thursday,0,Monsoon,None,0,None
+08-08-2025,2025,8,Q3,32,Friday,0,Monsoon,None,0,None
+09-08-2025,2025,8,Q3,32,Saturday,1,Monsoon,None,0,None
+10-08-2025,2025,8,Q3,32,Sunday,1,Monsoon,None,0,None
+11-08-2025,2025,8,Q3,33,Monday,0,Monsoon,None,0,None
+12-08-2025,2025,8,Q3,33,Tuesday,0,Monsoon,None,0,None
+13-08-2025,2025,8,Q3,33,Wednesday,0,Monsoon,None,0,None
+14-08-2025,2025,8,Q3,33,Thursday,0,Monsoon,None,0,None
+15-08-2025,2025,8,Q3,33,Friday,0,Monsoon,Independence Day,1,None
+16-08-2025,2025,8,Q3,33,Saturday,1,Monsoon,None,0,None
+17-08-2025,2025,8,Q3,33,Sunday,1,Monsoon,None,0,None
+18-08-2025,2025,8,Q3,34,Monday,0,Monsoon,None,0,None
+19-08-2025,2025,8,Q3,34,Tuesday,0,Monsoon,None,0,None
+20-08-2025,2025,8,Q3,34,Wednesday,0,Monsoon,None,0,None
+21-08-2025,2025,8,Q3,34,Thursday,0,Monsoon,None,0,None
+22-08-2025,2025,8,Q3,34,Friday,0,Monsoon,None,0,None
+23-08-2025,2025,8,Q3,34,Saturday,1,Monsoon,None,0,None
+24-08-2025,2025,8,Q3,34,Sunday,1,Monsoon,None,0,None
+25-08-2025,2025,8,Q3,35,Monday,0,Monsoon,None,0,None
+26-08-2025,2025,8,Q3,35,Tuesday,0,Monsoon,None,0,None
+27-08-2025,2025,8,Q3,35,Wednesday,0,Monsoon,None,0,None
+28-08-2025,2025,8,Q3,35,Thursday,0,Monsoon,None,0,None
+29-08-2025,2025,8,Q3,35,Friday,0,Monsoon,None,0,None
+30-08-2025,2025,8,Q3,35,Saturday,1,Monsoon,None,0,None
+31-08-2025,2025,8,Q3,35,Sunday,1,Monsoon,None,0,None
+01-09-2025,2025,9,Q3,36,Monday,0,Monsoon,None,0,None
+02-09-2025,2025,9,Q3,36,Tuesday,0,Monsoon,None,0,None
+03-09-2025,2025,9,Q3,36,Wednesday,0,Monsoon,None,0,None
+04-09-2025,2025,9,Q3,36,Thursday,0,Monsoon,None,0,None
+05-09-2025,2025,9,Q3,36,Friday,0,Monsoon,None,0,None
+06-09-2025,2025,9,Q3,36,Saturday,1,Monsoon,None,0,Seasonal Promotion
+07-09-2025,2025,9,Q3,36,Sunday,1,Monsoon,None,0,Seasonal Promotion
+08-09-2025,2025,9,Q3,37,Monday,0,Monsoon,None,0,None
+09-09-2025,2025,9,Q3,37,Tuesday,0,Monsoon,None,0,None
+10-09-2025,2025,9,Q3,37,Wednesday,0,Monsoon,None,0,None
+11-09-2025,2025,9,Q3,37,Thursday,0,Monsoon,None,0,None
+12-09-2025,2025,9,Q3,37,Friday,0,Monsoon,None,0,None
+13-09-2025,2025,9,Q3,37,Saturday,1,Monsoon,None,0,Seasonal Promotion
+14-09-2025,2025,9,Q3,37,Sunday,1,Monsoon,None,0,Seasonal Promotion
+15-09-2025,2025,9,Q3,38,Monday,0,Monsoon,None,0,None
+16-09-2025,2025,9,Q3,38,Tuesday,0,Monsoon,None,0,None
+17-09-2025,2025,9,Q3,38,Wednesday,0,Monsoon,None,0,None
+18-09-2025,2025,9,Q3,38,Thursday,0,Monsoon,None,0,None
+19-09-2025,2025,9,Q3,38,Friday,0,Monsoon,None,0,None
+20-09-2025,2025,9,Q3,38,Saturday,1,Monsoon,None,0,Seasonal Promotion
+21-09-2025,2025,9,Q3,38,Sunday,1,Monsoon,None,0,Seasonal Promotion
+22-09-2025,2025,9,Q3,39,Monday,0,Monsoon,None,0,None
+23-09-2025,2025,9,Q3,39,Tuesday,0,Monsoon,None,0,None
+24-09-2025,2025,9,Q3,39,Wednesday,0,Monsoon,None,0,None
+25-09-2025,2025,9,Q3,39,Thursday,0,Monsoon,None,0,None
+26-09-2025,2025,9,Q3,39,Friday,0,Monsoon,None,0,None
+27-09-2025,2025,9,Q3,39,Saturday,1,Monsoon,None,0,Seasonal Promotion
+28-09-2025,2025,9,Q3,39,Sunday,1,Monsoon,None,0,Seasonal Promotion
+29-09-2025,2025,9,Q3,40,Monday,0,Monsoon,None,0,None
+30-09-2025,2025,9,Q3,40,Tuesday,0,Monsoon,None,0,None
+01-10-2025,2025,10,Q4,40,Wednesday,0,Autumn,None,0,None
+02-10-2025,2025,10,Q4,40,Thursday,0,Autumn,None,0,None
+03-10-2025,2025,10,Q4,40,Friday,0,Autumn,None,0,None
+04-10-2025,2025,10,Q4,40,Saturday,1,Autumn,None,0,None
+05-10-2025,2025,10,Q4,40,Sunday,1,Autumn,None,0,None
+06-10-2025,2025,10,Q4,41,Monday,0,Autumn,None,0,None
+07-10-2025,2025,10,Q4,41,Tuesday,0,Autumn,None,0,None
+08-10-2025,2025,10,Q4,41,Wednesday,0,Autumn,None,0,None
+09-10-2025,2025,10,Q4,41,Thursday,0,Autumn,None,0,None
+10-10-2025,2025,10,Q4,41,Friday,0,Autumn,None,0,None
+11-10-2025,2025,10,Q4,41,Saturday,1,Autumn,None,0,None
+12-10-2025,2025,10,Q4,41,Sunday,1,Autumn,None,0,None
+13-10-2025,2025,10,Q4,42,Monday,0,Autumn,None,0,None
+14-10-2025,2025,10,Q4,42,Tuesday,0,Autumn,None,0,None
+15-10-2025,2025,10,Q4,42,Wednesday,0,Autumn,None,0,None
+16-10-2025,2025,10,Q4,42,Thursday,0,Autumn,None,0,None
+17-10-2025,2025,10,Q4,42,Friday,0,Autumn,None,0,None
+18-10-2025,2025,10,Q4,42,Saturday,1,Autumn,None,0,None
+19-10-2025,2025,10,Q4,42,Sunday,1,Autumn,None,0,None
+20-10-2025,2025,10,Q4,43,Monday,0,Autumn,Diwali,1,None
+21-10-2025,2025,10,Q4,43,Tuesday,0,Autumn,None,0,None
+22-10-2025,2025,10,Q4,43,Wednesday,0,Autumn,None,0,None
+23-10-2025,2025,10,Q4,43,Thursday,0,Autumn,None,0,None
+24-10-2025,2025,10,Q4,43,Friday,0,Autumn,None,0,None
+25-10-2025,2025,10,Q4,43,Saturday,1,Autumn,None,0,None
+26-10-2025,2025,10,Q4,43,Sunday,1,Autumn,None,0,None
+27-10-2025,2025,10,Q4,44,Monday,0,Autumn,None,0,None
+28-10-2025,2025,10,Q4,44,Tuesday,0,Autumn,None,0,None
+29-10-2025,2025,10,Q4,44,Wednesday,0,Autumn,None,0,None
+30-10-2025,2025,10,Q4,44,Thursday,0,Autumn,None,0,None
+31-10-2025,2025,10,Q4,44,Friday,0,Autumn,None,0,None
+01-11-2025,2025,11,Q4,44,Saturday,1,Autumn,None,0,Seasonal Promotion
+02-11-2025,2025,11,Q4,44,Sunday,1,Autumn,None,0,Seasonal Promotion
+03-11-2025,2025,11,Q4,45,Monday,0,Autumn,None,0,None
+04-11-2025,2025,11,Q4,45,Tuesday,0,Autumn,None,0,None
+05-11-2025,2025,11,Q4,45,Wednesday,0,Autumn,None,0,None
+06-11-2025,2025,11,Q4,45,Thursday,0,Autumn,None,0,None
+07-11-2025,2025,11,Q4,45,Friday,0,Autumn,None,0,None
+08-11-2025,2025,11,Q4,45,Saturday,1,Autumn,None,0,Seasonal Promotion
+09-11-2025,2025,11,Q4,45,Sunday,1,Autumn,None,0,Seasonal Promotion
+10-11-2025,2025,11,Q4,46,Monday,0,Autumn,None,0,None
+11-11-2025,2025,11,Q4,46,Tuesday,0,Autumn,None,0,None
+12-11-2025,2025,11,Q4,46,Wednesday,0,Autumn,None,0,None
+13-11-2025,2025,11,Q4,46,Thursday,0,Autumn,None,0,None
+14-11-2025,2025,11,Q4,46,Friday,0,Autumn,None,0,None
+15-11-2025,2025,11,Q4,46,Saturday,1,Autumn,None,0,Seasonal Promotion
+16-11-2025,2025,11,Q4,46,Sunday,1,Autumn,None,0,Seasonal Promotion
+17-11-2025,2025,11,Q4,47,Monday,0,Autumn,None,0,None
+18-11-2025,2025,11,Q4,47,Tuesday,0,Autumn,None,0,None
+19-11-2025,2025,11,Q4,47,Wednesday,0,Autumn,None,0,None
+20-11-2025,2025,11,Q4,47,Thursday,0,Autumn,None,0,None
+21-11-2025,2025,11,Q4,47,Friday,0,Autumn,None,0,None
+22-11-2025,2025,11,Q4,47,Saturday,1,Autumn,None,0,Seasonal Promotion
+23-11-2025,2025,11,Q4,47,Sunday,1,Autumn,None,0,Seasonal Promotion
+24-11-2025,2025,11,Q4,48,Monday,0,Autumn,None,0,None
+25-11-2025,2025,11,Q4,48,Tuesday,0,Autumn,None,0,None
+26-11-2025,2025,11,Q4,48,Wednesday,0,Autumn,None,0,None
+27-11-2025,2025,11,Q4,48,Thursday,0,Autumn,None,0,None
+28-11-2025,2025,11,Q4,48,Friday,0,Autumn,None,0,None
+29-11-2025,2025,11,Q4,48,Saturday,1,Autumn,None,0,Seasonal Promotion
+30-11-2025,2025,11,Q4,48,Sunday,1,Autumn,None,0,Seasonal Promotion
+01-12-2025,2025,12,Q4,49,Monday,0,Winter,None,0,None
+02-12-2025,2025,12,Q4,49,Tuesday,0,Winter,None,0,None
+03-12-2025,2025,12,Q4,49,Wednesday,0,Winter,None,0,None
+04-12-2025,2025,12,Q4,49,Thursday,0,Winter,None,0,None
+05-12-2025,2025,12,Q4,49,Friday,0,Winter,None,0,None
+06-12-2025,2025,12,Q4,49,Saturday,1,Winter,None,0,None
+07-12-2025,2025,12,Q4,49,Sunday,1,Winter,None,0,None
+08-12-2025,2025,12,Q4,50,Monday,0,Winter,None,0,None
+09-12-2025,2025,12,Q4,50,Tuesday,0,Winter,None,0,None
+10-12-2025,2025,12,Q4,50,Wednesday,0,Winter,None,0,None
+11-12-2025,2025,12,Q4,50,Thursday,0,Winter,None,0,None
+12-12-2025,2025,12,Q4,50,Friday,0,Winter,None,0,None
+13-12-2025,2025,12,Q4,50,Saturday,1,Winter,None,0,None
+14-12-2025,2025,12,Q4,50,Sunday,1,Winter,None,0,None
+15-12-2025,2025,12,Q4,51,Monday,0,Winter,None,0,None
+16-12-2025,2025,12,Q4,51,Tuesday,0,Winter,None,0,None
+17-12-2025,2025,12,Q4,51,Wednesday,0,Winter,None,0,None
+18-12-2025,2025,12,Q4,51,Thursday,0,Winter,None,0,None
+19-12-2025,2025,12,Q4,51,Friday,0,Winter,None,0,None
+20-12-2025,2025,12,Q4,51,Saturday,1,Winter,None,0,None
+21-12-2025,2025,12,Q4,51,Sunday,1,Winter,None,0,None
+22-12-2025,2025,12,Q4,52,Monday,0,Winter,None,0,None
+23-12-2025,2025,12,Q4,52,Tuesday,0,Winter,None,0,None
+24-12-2025,2025,12,Q4,52,Wednesday,0,Winter,None,0,None
+25-12-2025,2025,12,Q4,52,Thursday,0,Winter,Christmas,1,None
+26-12-2025,2025,12,Q4,52,Friday,0,Winter,None,0,None
+27-12-2025,2025,12,Q4,52,Saturday,1,Winter,None,0,None
+28-12-2025,2025,12,Q4,52,Sunday,1,Winter,None,0,None
+29-12-2025,2025,12,Q4,1,Monday,0,Winter,None,0,None
+30-12-2025,2025,12,Q4,1,Tuesday,0,Winter,None,0,None
+31-12-2025,2025,12,Q4,1,Wednesday,0,Winter,None,0,None
