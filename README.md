@@ -251,45 +251,304 @@ Based on the analysis, the platform provides the following recommendations:
 
 ---
 
-## ⚙️ Methodology
+📈 Dashboard Methodology
 
-The project follows a structured analytics workflow.
+The project contains 12 interactive Power BI dashboards. Each dashboard focuses on a different aspect of retail business performance and inventory intelligence.
 
-**Step 1: Data Preparation**
+1. Executive Dashboard
 
-* Cleaned sales, product, inventory, and customer data.
-* Handled missing values, duplicates, and data types.
-* Joined datasets using product identifiers.
-* Created calendar features such as seasons, weekends, and promotions.
+Objective: Provide a high-level overview of business performance and key performance indicators.
 
-**Step 2: Exploratory Data Analysis**
+Methodology:
 
-* Analyzed revenue and sales trends.
-* Examined product and category performance.
-* Investigated seasonal patterns and customer behavior.
+Consolidated sales, revenue, profit, and inventory metrics into a single executive view.
+Calculated total revenue, gross profit, gross profit margin, and units sold.
+Analyzed revenue trends over time to identify high-performing and low-performing periods.
+Compared revenue contributions across product categories.
+Used KPI cards and trend visualizations to summarize business performance.
 
-**Step 3: Demand Forecasting**
+Key KPIs:
 
-* Aggregated daily revenue.
-* Developed a time-series forecasting model.
-* Evaluated forecast performance using a holdout period.
-* Visualized forecasts with confidence intervals.
+Total Revenue
+Gross Profit
+Gross Profit Margin
+Units Sold
+Revenue by Category
+Daily Revenue Trend
 
-**Step 4: Inventory Risk Analysis**
+Business Outcome: Provides management with a consolidated view of business performance and highlights important sales trends.
 
-* Compared current stock against reorder points.
-* Evaluated stockout timelines and supplier lead times.
-* Classified stockout risk.
-* Identified overstocked and slow-moving products.
+2. Sales Analytics Dashboard
 
-**Step 5: Dashboard Development**
+Objective: Analyze sales performance and identify patterns in revenue generation.
 
-* Built a Power BI data model.
-* Created DAX measures and KPIs.
-* Designed 12 interactive dashboard pages.
-* Integrated analytics and business recommendations.
+Methodology:
 
----
+Aggregated sales transactions by year, month, and weekday.
+Compared annual revenue to identify year-over-year changes.
+Analyzed daily and monthly sales trends.
+Compared promotional and non-promotional revenue.
+Examined weekday and weekend sales performance.
+Used comparative charts to identify periods with higher sales activity.
+
+Key KPIs:
+
+Total Sales Revenue
+Year-over-Year Revenue Growth
+Monthly Revenue
+Weekend vs. Weekday Revenue
+Promotional vs. Non-Promotional Sales
+
+Business Outcome: Helps identify revenue trends, understand sales patterns, and evaluate the contribution of promotional activity.
+
+3. Product Performance Dashboard
+
+Objective: Evaluate individual product performance based on revenue, sales volume, and profitability.
+
+Methodology:
+
+Aggregated sales data at the product level.
+Calculated revenue and gross margin for individual products.
+Ranked products by revenue contribution.
+Compared product-level profitability and sales performance.
+Examined revenue concentration to identify high-performing products and the long tail of lower-performing products.
+Used product comparisons to highlight differences in performance.
+
+Key KPIs:
+
+Product Revenue
+Units Sold
+Gross Profit
+Gross Margin per Unit
+Top-Performing Products
+Product Revenue Contribution
+
+Business Outcome: Helps identify products that contribute significantly to revenue and products that may require further performance review.
+
+4. Category Performance Dashboard
+
+Objective: Compare revenue and profitability across the five product categories.
+
+Methodology:
+
+Grouped products into their respective categories.
+Aggregated revenue and gross profit by category.
+Calculated category-level profit percentages.
+Compared revenue contributions across categories.
+Analyzed monthly revenue trends for each category.
+Used comparative visualizations to examine differences in category performance.
+
+Key KPIs:
+
+Revenue by Category
+Gross Profit by Category
+Profit Percentage
+Monthly Category Revenue
+Category Revenue Contribution
+
+Business Outcome: Helps identify the categories contributing most to revenue and compare profitability across the product portfolio.
+
+5. Inventory Dashboard
+
+Objective: Monitor inventory levels, stock value, and inventory turnover.
+
+Methodology:
+
+Consolidated inventory data to analyze current stock levels.
+Calculated total inventory value and units on hand.
+Analyzed days on hand to understand how long inventory remains in stock.
+Calculated inventory turnover to measure stock movement.
+Compared inventory holding patterns across product categories.
+Examined monthly inventory levels in relation to seasonal demand patterns.
+
+Key KPIs:
+
+Total Inventory Value
+Units on Hand
+Days on Hand
+Inventory Turnover
+Inventory Value by Category
+Monthly Inventory Trends
+
+Business Outcome: Helps identify slow-moving categories, monitor inventory investment, and understand whether stock levels align with demand patterns.
+
+6. Stockout Risk Dashboard
+
+Objective: Identify products that may run out of stock before new inventory arrives.
+
+Methodology:
+
+Compared current inventory against product reorder points.
+Evaluated days until stockout for each SKU.
+Compared estimated stockout timing with supplier lead times.
+Classified products into three risk categories: CRITICAL, WARNING, and SAFE.
+Analyzed stockout risk across products and categories.
+Created SKU-level tables to support inventory review and replenishment planning.
+
+Risk Classification:
+
+Risk Level	Description
+CRITICAL	Stock is expected to run out before replenishment can arrive.
+WARNING	Inventory requires attention because of potential stock risk.
+SAFE	No immediate stockout risk is identified by the classification.
+
+Key KPIs:
+
+Critical SKUs
+Warning SKUs
+Safe SKUs
+Days Until Stockout
+Reorder Point
+Supplier Lead Time
+
+Business Outcome: Helps identify products requiring urgent replenishment and supports more informed purchasing decisions.
+
+7. Overstock Dashboard
+
+Objective: Identify excess inventory and slow-moving products that increase inventory holding costs.
+
+Methodology:
+
+Analyzed inventory levels to identify overstocked products.
+Calculated excess inventory value for affected products.
+Identified slow-moving products and examined their inventory position.
+Calculated the annual holding cost associated with excess inventory.
+Estimated potential revenue recovery using a hypothetical 20% discount scenario.
+Presented excess inventory metrics to support clearance and inventory reduction decisions.
+
+Key KPIs:
+
+Total Excess Inventory Value
+Number of Overstocked Products
+Slow-Moving Products
+Annual Holding Cost
+Potential Clearance Revenue
+
+Business Outcome: Helps identify excess stock, understand its financial impact, and evaluate potential inventory clearance opportunities.
+
+8. Promotion Dashboard
+
+Objective: Analyze the relationship between promotional activity, sales volume, and revenue.
+
+Methodology:
+
+Separated promotional and non-promotional transactions.
+Aggregated promotional revenue and units sold.
+Compared promotional sales across product categories.
+Analyzed product-level promotional performance.
+Examined the relationship between promotional units and revenue.
+Used comparative visualizations to understand the contribution of promotions to overall sales.
+
+Key KPIs:
+
+Promotional Revenue
+Promotional Units Sold
+Non-Promotional Revenue
+Sales by Category
+Product-Level Promotional Performance
+
+Business Outcome: Helps businesses understand promotional sales patterns and identify products and categories with notable promotional revenue.
+
+9. Seasonality Dashboard
+
+Objective: Understand seasonal demand patterns and identify periods of high and low sales activity.
+
+Methodology:
+
+Added calendar-based features to the sales data.
+Grouped transactions by season, month, and week.
+Compared peak-season and off-season revenue.
+Analyzed monthly sales fluctuations across the two-year period.
+Examined weekly unit sales to identify periods of increased or reduced demand.
+Compared seasonal performance between years.
+
+Key KPIs:
+
+Peak-Season Revenue
+Off-Season Revenue
+Seasonal Variation
+Monthly Revenue
+Weekly Units Sold
+Revenue by Season
+
+Business Outcome: Helps identify seasonal sales patterns and supports inventory planning around periods of higher or lower demand.
+
+10. Demand Forecast Dashboard
+
+Objective: Forecast future revenue and provide insights to support demand planning.
+
+Methodology:
+
+Aggregated historical sales revenue at the daily level.
+Prepared historical data for time-series forecasting.
+Trained a forecasting model using historical revenue data.
+Held out a portion of historical data for validation.
+Evaluated forecast accuracy using Mean Absolute Percentage Error (MAPE).
+Generated future revenue forecasts with 95% prediction intervals.
+Visualized actual revenue, forecast revenue, and upper and lower forecast bounds.
+Presented a 30-day outlook and forecast revenue by category.
+
+Key KPIs:
+
+Actual Revenue
+Forecast Revenue
+30-Day Revenue Forecast
+Upper and Lower Forecast Bounds
+Forecast Accuracy (MAPE)
+Forecast Revenue by Category
+
+Business Outcome: Provides a forward-looking view of expected revenue to support purchasing, inventory, and business planning.
+
+Note: The specific forecasting model name and validated MAPE value should be added once confirmed.
+
+11. Customer and Business Insights Dashboard
+
+Objective: Understand customer segmentation, purchasing behavior, and revenue contribution.
+
+Methodology:
+
+Grouped customers into High Value, Regular, and Occasional segments.
+Analyzed the number of customers in each segment.
+Aggregated revenue by customer segment.
+Calculated revenue contribution and revenue per customer.
+Examined purchase frequency across customer segments.
+Compared category preferences and revenue distribution across segments.
+
+Key KPIs:
+
+Total Customers
+Customers by Segment
+Revenue by Segment
+Revenue per Customer
+Purchase Frequency
+Category-Level Customer Revenue
+
+Business Outcome: Helps businesses understand customer value, purchasing frequency, and the contribution of different customer segments to total revenue.
+
+12. Executive Recommendation Dashboard
+
+Objective: Bring important business metrics and analytical findings together to support management decisions.
+
+Methodology:
+
+Consolidated growth, profitability, inventory turnover, and stockout risk metrics.
+Combined stockout risk counts with category-level analysis.
+Developed a risk heat map to highlight inventory risk across categories.
+Created an opportunity matrix comparing potential revenue impact with implementation difficulty.
+Combined inventory, sales, and profitability insights into a prioritized action list.
+Presented key recommendations in an executive-friendly format.
+
+Key KPIs:
+
+Revenue Growth
+Gross Profit Margin
+Inventory Turnover
+Stockout Risk
+Category-Level Risk
+Opportunity Impact
+Recommended Actions
+
+Business Outcome: Converts analytical findings into a concise set of business actions, helping management focus on replenishment, excess stock, product performance, and inventory optimization.
 
 ## 📌 Challenges Faced
 
@@ -345,7 +604,7 @@ Create a `screenshots` folder in your repository and upload the corresponding im
 
 ## 👩‍💻 Author
 
-**Rinkle Yadav**
+**Rinkle **
 Data Analytics Intern
 
 **Mentor:** Chandan Mishra
